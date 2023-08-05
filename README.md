@@ -88,8 +88,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ghaiiith/ghaiiith/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/ghaiith/ghaiith/blob/output/github-contribution-grid-snake.gif)
 ###
 
 <div align="center">
