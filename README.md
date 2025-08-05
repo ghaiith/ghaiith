@@ -5,9 +5,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ghaiith/count.svg?"  />
-</div>
 
 ###
 
